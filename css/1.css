@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h3{
+    width: 100%;
+    line-height:59px;
+    color: white;
+    background-color: #FFC0CB;
+    text-align: center;
+    
+}
+h4:hover{
+    color: #C4C4C4;
+}
+div{
+    margin: auto;
+}
+.container{
+    width:400px;
+    height: 620px;
+}
+img{
+    width:400px;
+    height: 250px; 
+}
+.content:hover{
+    color:#FFCCCB;
+}
+li:hover{
+    color: #FF1493;
+}
+dt:hover{
+    color: #FF1493;
+}
+.about:hover{
+    color: #A3A3A3;
+}
